@@ -19,7 +19,7 @@ public class program {
 		
 
 		while (i == 0) {
-			System.out.println("1 - Open account");
+			System.out.println("1 - Open accountt");
 			System.out.println("2 - Your balance");
 			System.out.println("3 - withdrawal");
 			int op = sc.nextInt();
